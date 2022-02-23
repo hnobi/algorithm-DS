@@ -1,2 +1,2 @@
-# algorithm-DS
+## algorithm-DS
 Daily algorithm practice
